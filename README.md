@@ -1,6 +1,4 @@
-# Logiciel interne SmartVOX®
-
-> Avertisseur vocal radio
+# Firmware avertisseur vocal SmartVOX® SV
 
 Site Web : <https://www.aet.fr/solutions-dalerte/systeme-dalerte-smartvox-xpa3013.html>
 
